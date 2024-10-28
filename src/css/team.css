@@ -1,0 +1,26 @@
+
+*body{
+    margin: 0;
+    padding: 0;
+}
+
+.team-details-card{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-size: 1.5rem;
+}
+
+.color-box {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    margin-right: 5px;
+    border: 1px solid #ccc;
+    vertical-align: middle;
+    font-size: 1.3rem;
+  }
+
+
+  
