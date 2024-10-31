@@ -14,10 +14,10 @@ const options = {
   }
 };*/
 
-const baseURL = import.meta.env.VITE_RAPIDAPI_SERVER_URL;
-const teamPlayersUrl = import.meta.env.VITE_RAPIDAPI_TEAM_PLAYERS_URL;
+const url = import.meta.env.VITE_RAPIDAPI_SERVER_URL;
+const teamplayersUrl = import.meta.env.VITE_RAPIDAPI_TEAM_PLAYERS_URL;
 const urlNews = import.meta.env.VITE_RAPIDAPI_NEWS_URL;
-const teamDetailsUrl = import.meta.env.VITE_RAPIDAPI_TEAM_DETAILS_URL;
+const teamdetailssUrl = import.meta.env.VITE_RAPIDAPI_TEAM_DETAILS_URL;
 const apiKey = import.meta.env.VITE_RAPIDAPI_KEY;
 const apiHost = import.meta.env.VITE_RAPIDAPI_HOST;
 
